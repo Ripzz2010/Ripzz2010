@@ -1,16 +1,42 @@
-### Hi there 👋
+# My Biodata Profile
 
-<!--
-**Ripzz2010/Ripzz2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Personal Information
 
-Here are some ideas to get you started:
+- **Name:** Your Name
+- **Date of Birth:** Your Date of Birth
+- **Gender:** Your Gender
+- **Nationality:** Your Nationality
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Information
+
+- **Email:** your.email@example.com
+- **Phone:** Your Phone Number
+- **Address:** Your Address
+
+## Education
+
+- **Degree:** Your Degree
+- **Major:** Your Major
+- **University:** Your University
+- **Graduation Year:** Year of Graduation
+
+## Work Experience
+
+- **Company:** Previous/Current Company
+- **Position:** Your Position
+- **Duration:** Start Date - End Date
+
+## Skills
+
+- Programming Languages: List of programming languages
+- Soft Skills: List of soft skills
+
+## Hobbies and Interests
+
+- Hobbies: List of hobbies
+- Interests: List of interests
+
+## References
+
+Available upon request.
+
