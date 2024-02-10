@@ -2,16 +2,16 @@
 
 ## Personal Information
 
-- **Name:** Your Name
-- **Date of Birth:** Your Date of Birth
-- **Gender:** Your Gender
-- **Nationality:** Your Nationality
+- **Name:** Ahmad Arif Sufyan
+- **Date of Birth:** 7 december 2010
+- **Gender:** man
+- **Nationality:** indonesian
 
 ## Contact Information
 
-- **Email:** your.email@example.com
-- **Phone:** Your Phone Number
-- **Address:** Your Address
+- **Email:** arifsufyanahmad@gmail.com
+- **Phone:** +62 895411144265
+- **Address:** 
 
 ## Education
 
